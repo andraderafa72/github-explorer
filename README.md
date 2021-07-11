@@ -22,7 +22,7 @@
 
 
 ## 📱 The platform
-[See it working](https://google.com). Try to change the user and search some repos to see what happens.
+[See it working](https://git-rocket.netlify.app). Try to change the user and search some repos to see what happens.
 
 <br>
 
