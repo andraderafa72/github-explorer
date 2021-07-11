@@ -1,0 +1,26 @@
+.repository-item{
+  padding: 2rem 3.5rem;
+  border: 2.5px solid #eee;
+  border-radius: .85rem;
+  box-shadow: 0px 4px 24px 0 rgba(0,0,0,.08);
+  transition: .3s;
+
+  &:hover{
+    transform: translateY(-3px);
+    border-color: #8257e6;
+  }
+
+  p{
+    font-size: .85rem;
+    color: #444;
+    margin-top: .5rem;
+  }
+
+  a{
+    display: inline-block;
+    margin-top: 1rem;
+    text-decoration: none;
+
+    color: #8257e6;
+  }
+}
