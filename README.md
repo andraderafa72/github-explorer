@@ -61,6 +61,4 @@ $ npm run dev
 
 The app will be available for access on your browser at `http://localhost:8080`
 
-## 📝 License
-
 Made with 💜 by Rafael Andrade 👋 [Check out my LinkedIn](https://www.linkedin.com/in/andraderafa72)
