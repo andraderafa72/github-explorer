@@ -17,6 +17,20 @@ section.repository-list{
     }
   }
 
+  .search{
+    position: relative;
+
+    svg{
+      position: absolute;
+      right: 1.5rem;
+      top: .75rem;
+
+      opacity: .5;
+
+      fill: #999
+    }
+  }
+
   input[type="text"]{
     width: 100%;
     padding: .8rem 1rem;
